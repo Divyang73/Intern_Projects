@@ -203,6 +203,10 @@ sudo apt-get install build-essential
 - Integrated BFS, DFS, IDDFS, and IDA* search strategies with a pattern-database heuristic.
 - Added frontend error handling and retry logic for solver requests.
 
+![Intro](Images/Intro.png)
+![Scrambled](Images/Scrambled.png)
+![Solve](Images/Solve.png)
+
 ## References
 
 - Korf, R. E. (1985). Depth-first iterative-deepening: An optimal admissible tree search. Artificial Intelligence, 27(1), 97-109.
